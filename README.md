@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-PersonalWebsite-%23181717?style=flat-square&logo=html5)](https://eduard-koshkelyan.onrender.com/)
 [![](https://img.shields.io/badge/-edko2001-%23181717?style=flat-square&logo=github)](https://github.com/edko2001)
 
-Seasoned and independent Front-end Developer with +4 years of experience in Web Development to deliver an immersive and engaging user experience.
+I have been working as a developer for over 4 years. Having worked on hundreds of projects with a variety of businesses, I have developed a knack for understanding what each business needs for their digital presence, and how to implement most suited solutions in a cost-effective manner. In my free time I enjoy hiking the hills and visiting natural parks.
 
 ## Stats
 ![edko2001's GitHub stats](https://github-readme-stats-edko2001.vercel.app/api?username=edko2001&show_icons=true&theme=dracula&count_private=true)
