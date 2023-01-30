@@ -8,6 +8,7 @@ I have been working as a developer for over 4 years. I have extensive experience
 
 Technical skills:
 • React
+• React Native
 • Next
 • Gatsby + GraphQL
 • TypeScript
