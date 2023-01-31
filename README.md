@@ -11,6 +11,7 @@ Technical skills:
 • React Native
 • Next
 • Gatsby + GraphQL
+• Any Complexity, Responsive, Cross Browser and Pixel Perfect Markup, Mobile-first
 • TypeScript
 • Redux/Redux Toolkit
 • Node
