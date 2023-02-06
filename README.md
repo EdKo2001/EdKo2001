@@ -22,6 +22,7 @@ Technical skills:
 • Products optimization (performance wise) 
 • Websites’ cybersecurity
 • SEO
+• Marketing
 • Unordinary solutions
 • Understanding of AWS, CI/CD, DevOps, C, C++, C#, Python, Networking
 
