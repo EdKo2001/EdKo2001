@@ -20,7 +20,7 @@ Technical skills:
 • UI/UX
 • Algorithms
 • Products optimization (performance wise) 
-• Websites’ cybersecurity
+• Websites cybersecurity
 • SEO
 • Marketing
 • Unordinary solutions
