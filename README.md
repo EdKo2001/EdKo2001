@@ -30,7 +30,7 @@ Soft skills:
 • **Friendly**
 • Leadership
 • Communication
-• Help, i.e., helping co-workers to come up with ideas/solutions
+• Collaboration: helping co-workers to come up with ideas/solutions
 • Teaching
 • Fast as flash and high quality
 • Stress tolerance
