@@ -16,55 +16,55 @@ Open to relocation and learning new technologies.
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
       </a>
       <br>javascript
     </td>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
       </a>
       <br>typescript
     </td>
         <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
       </a>
-      <br>Html5
+      <br>HTML5
     </td>
          <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
       </a>
-      <br>Css3
+      <br>CSS3
     </td>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
       </a>
       <br>git
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
+      <a href="#">
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
       </a>
       <br>npm
     </td>
      <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
       </a>
       <br>github
     </td>
          <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
       </a>
       <br>gitlab
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
       </a>
       <br>docker
@@ -79,66 +79,90 @@ Open to relocation and learning new technologies.
 <table width='100%'>
   <tr>
    <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
       </a>
       <br>React JS
     </td>
      <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
       </a>
       <br>Next JS
     </td>
+       <td align="center"  width="96">
+      <a href="#">
+        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="36" height="36" alt="Gatsby" />
+      </a>
+      <br>Gatsby
+    </td>
  <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
       </a>
       <br>Redux
     </td>
      <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
+      <a href="#" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
       </a>
-      <br>MUI
+      <br>Redux Toolkit
     </td>
-   <td align="center"  width="96">
-      <a href="#debabin-stack">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="36" height="36" alt="Gatsby" />
+     <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="36" height="36" alt="Apollo" />
       </a>
-      <br>Gatsby
+      <br>Apollo 
     </td>
-   <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
+    <td align="center" width="110" height="90">
+      <a href="#">
+          <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
       </a>
-      <br>Bootstrap
+      <br>Webpack
+    </td>
+        <td align="center" width="110" height="90">
+      <a href="#">
+          <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
+      </a>
+      <br>Gulp
     </td>
   </tr> 
     <tr>
      <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="36" height="36" alt="Apollo" />
       </a>
-      <br>Apollo
+      <br>Ant Design
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
       </a>
-      <br>Webpack
+      <br>reactstrap
     </td>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
       </a>
       <br>Sass
     </td>
    <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
       </a>
       <br>Tailwind
+    </td>
+       <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
+      </a>
+      <br>MUI
+    </td>
+   <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
     </td>
   </tr> 
 </table>
@@ -148,31 +172,37 @@ Open to relocation and learning new technologies.
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
         <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
       </a>
       <br>MongoDB
     </td>
          <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="36" height="36" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
       </a>
       <br>GraphQL
     </td>
+     <td align="center" width="110" height="90">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
+      </a>
+      <br>Passport.js
+    </td>
    <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
       </a>
       <br>Socket.io
@@ -185,43 +215,43 @@ Open to relocation and learning new technologies.
 <table width='100%'>
   <tr>
      <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
       </a>
       <br>Jest
     </td>
       <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
       </a>
       <br>Enzyme
     </td>
      <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
       </a>
       <br>React Testing Library
     </td>
       <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
       </a>
       <br>Supertest
     </td>
         <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#" >
         <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
       </a>
       <br>storybook
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
+      <a href="#">
         <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="36" height="36" alt="cypress" />
       </a>
       <br>cypress
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
+      <a href="#">
         <img src="https://bestofjs.org/logos/puppeteer.svg" width="36" height="36" alt="puppeteer" />
       </a>
       <br>puppeteer
@@ -234,13 +264,13 @@ Open to relocation and learning new technologies.
 <table width='100%'>
   <tr>
      <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#">
         <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
       </a>
       <br>eslint
     </td>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#">
         <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
       </a>
       <br>prettier
@@ -253,7 +283,7 @@ Open to relocation and learning new technologies.
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React Native" />
       </a>
       <br>React Native
@@ -266,7 +296,7 @@ Open to relocation and learning new technologies.
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
       </a>
       <br>electron
@@ -274,20 +304,55 @@ Open to relocation and learning new technologies.
   </tr> 
 </table>
 
+> Other
 
-Technical skills:
-• Any Complexity, Responsive, Cross Browser and Pixel Perfect Markup, Mobile-first
-• Redux/Redux Toolkit
-• PHP
-• WordPress/WooCommerce + Headless
-• UI/UX
-• Algorithms
-• Products optimization (performance wise) 
-• Websites cybersecurity
-• SEO
-• Marketing
-• Unordinary solutions
-• Understanding of AWS, CI/CD, DevOps, C, C++, C#, Python, Networking
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
+      </a>
+      <br>PHP
+    </td>
+     <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
+      </a>
+      <br>Algorithms
+    </td>
+     <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
+      </a>
+      <br>WordPress/WooCommerce + Headless
+    </td>
+      <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
+      </a>
+      <br>SEO
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
+      </a>
+      <br>JWT
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
+      </a>
+      <br>bcrypt
+    </td>
+     <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
+      </a>
+      <br>UI/UX
+    </td>
+  </tr> 
+</table>
+
 
 <h2 align="left" id="debabin-stack">🔥 Soft skills</h2>
 • Proven B2 level of English (IELTS certification) <br>
