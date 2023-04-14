@@ -59,7 +59,7 @@ Open to relocation and learning new technologies.
     </td>
          <td align="center" width="110" height="90"> 
       <a href="#" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="36" height="36" alt="gitlab" />
       </a>
       <br>gitlab
     </td>
@@ -104,7 +104,7 @@ Open to relocation and learning new technologies.
     </td>
      <td align="center" width="110" height="90">
       <a href="#" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux Toolkit" />
       </a>
       <br>Redux Toolkit
     </td>
@@ -122,7 +122,7 @@ Open to relocation and learning new technologies.
     </td>
         <td align="center" width="110" height="90">
       <a href="#">
-          <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
+          <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" width="36" height="36" alt="gulp" />
       </a>
       <br>Gulp
     </td>
@@ -130,13 +130,13 @@ Open to relocation and learning new technologies.
     <tr>
      <td align="center" width="110" height="90"> 
       <a href="#" >
-        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="36" height="36" alt="Apollo" />
+        <img src="https://brandeps.com/icon-download/A/Ant-design-icon-vector-02.svg" width="36" height="36" alt="Ant Design" />
       </a>
       <br>Ant Design
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#" >
-        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
+        <img src="https://brandeps.com/icon-download/R/React-icon-vector-04.svg" width="36" height="36" alt="reactstrap" />
       </a>
       <br>reactstrap
     </td>
@@ -197,13 +197,13 @@ Open to relocation and learning new technologies.
     </td>
      <td align="center" width="110" height="90">
       <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
+        <img src="https://bestofjs.org/logos/passport.svg" width="36" height="36" alt="Passport.js" />
       </a>
       <br>Passport.js
     </td>
    <td align="center" width="110" height="90">
       <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" width="36" height="36" alt="Socket.io" />
       </a>
       <br>Socket.io
     </td>
@@ -222,19 +222,19 @@ Open to relocation and learning new technologies.
     </td>
       <td align="center" width="110" height="90"> 
       <a href="#" >
-        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
+        <img src="https://asset.jarombek.com/logos/enzyme.png" width="36" height="36" alt="Enzyme" />
       </a>
       <br>Enzyme
     </td>
      <td align="center" width="110" height="90"> 
       <a href="#" >
-        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
+        <img src="https://avatars.githubusercontent.com/u/49996085?v=3&s=75" width="36" height="36" alt="React Testing Library" />
       </a>
       <br>React Testing Library
     </td>
       <td align="center" width="110" height="90"> 
       <a href="#" >
-        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
+        <img src="https://avatars.githubusercontent.com/u/30959108?v=3&s=75" width="36" height="36" alt="Supertest" />
       </a>
       <br>Supertest
     </td>
@@ -310,43 +310,49 @@ Open to relocation and learning new technologies.
   <tr>
      <td align="center" width="110" height="90">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="36" height="36" alt="php" />
       </a>
       <br>PHP
     </td>
      <td align="center" width="110" height="90">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original.svg" width="36" height="36" alt="Algorithms" />
       </a>
       <br>Algorithms
     </td>
      <td align="center" width="110" height="90">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="36" height="36" alt="WordPress" />
       </a>
-      <br>WordPress/WooCommerce + Headless
+      <br>WordPress + Headless
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" width="36" height="36" alt="WooCommerce" />
+      </a>
+      <br>WooCommerce + Headless
     </td>
       <td align="center" width="110" height="90">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3i111-9B9qge3pPNFamoqnZqgbgMRyLYcnQ&usqp=CAU" width="36" height="36" alt="SEO" />
       </a>
       <br>SEO
     </td>
     <td align="center" width="110" height="90">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
+        <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="36" height="36" alt="JWT" />
       </a>
       <br>JWT
     </td>
     <td align="center" width="110" height="90">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
+        <img src="https://www.springboot.ch/tools/crypt/bcrypt/bcrypt.png" width="36" height="36" alt="bcrypt" />
       </a>
       <br>bcrypt
     </td>
      <td align="center" width="110" height="90">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
+        <img src="https://cdn-icons-png.flaticon.com/512/1488/1488592.png" width="36" height="36" alt="UI/UX" />
       </a>
       <br>UI/UX
     </td>
