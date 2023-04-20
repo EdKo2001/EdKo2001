@@ -1,7 +1,7 @@
 <h1 align="left">:wave: Hello there! I'm Eduard Koshkelyan</h1>
 
 [![](https://img.shields.io/badge/-Eduard%20Koshkelyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduard-koshkelyan/)](https://www.linkedin.com/in/eduard-koshkelyan/)
-[![](https://img.shields.io/badge/-PersonalWebsite-%23181717?style=flat-square&logo=html5)](https://eduard-koshkelyan.onrender.com/)
+[![](https://img.shields.io/badge/-PersonalWebsite-%23181717?style=flat-square&logo=html5)](https://eduard-koshkelyan.onrender.com/#portfolio)
 [![](https://img.shields.io/badge/-edko2001-%23181717?style=flat-square&logo=github)](https://github.com/edko2001)
 
 I have been working as a developer for over 4 years. I have extensive experience working on hundreds of projects with various businesses, allowing me to understand their digital needs and implement the best solutions efficiently and cost-effectively. Along with working as a freelancer, I gained a lot of experience in communication with clients, to understand their needs and come up with better solutions for their business. During my career, I have managed to earn a bunch of 5-star reviews (DM). 
