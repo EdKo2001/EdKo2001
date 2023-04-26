@@ -106,7 +106,7 @@ Open to relocation and learning new technologies.
       <a href="#" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux Toolkit" />
       </a>
-      <br>Redux Toolkit
+      <br>Redux Toolkit/RTK
     </td>
      <td align="center" width="110" height="90">
       <a href="#">
