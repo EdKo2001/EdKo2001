@@ -370,11 +370,8 @@ Open to relocation and learning new technologies.
 • Fast as flash and high quality <br>
 • Stress tolerance <br>
 
-
-
 ## Stats
-![edko2001's GitHub stats](https://github-readme-stats-edko2001.vercel.app/api?username=edko2001&show_icons=true&theme=dracula&count_private=true)
-
+![edko2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=edko2001&show_icons=true&theme=dracula&count_private=true)
 
 ## Languages 
-![Top Languages](https://github-readme-stats-edko2001.vercel.app/api/top-langs/?username=edko2001&layout=compact&hide=css,html,handlebars)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edko2001&layout=compact&hide=css,html,handlebars)
