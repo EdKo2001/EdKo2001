@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-PersonalWebsite-%23181717?style=flat-square&logo=html5)](https://eduard-koshkelyan.onrender.com/#portfolio)
 [![](https://img.shields.io/badge/-edko2001-%23181717?style=flat-square&logo=github)](https://github.com/edko2001)
 
-I have been working as a developer for over 5 years. I have extensive experience working on hundreds of projects with various businesses, allowing me to understand their digital needs and implement the best solutions efficiently and cost-effectively. Along with working as a freelancer, I gained a lot of experience in communication with clients, to understand their needs and come up with better solutions for their business. During my career, I have managed to earn a bunch of 5-star reviews (DM). 
+I have been working as a seasoned developer for over 5 years, consistently delivering top-notch results. With a wealth of experience acquired from working on a multitude of projects spanning various industries, I possess a deep understanding of diverse businesses' digital requirements. This extensive exposure has enabled me to efficiently and cost-effectively implement optimal solutions tailored to their specific needs.
 
 In my free time, I like to solve algorithms and visit national parks.
 Open to relocation and learning new technologies.
