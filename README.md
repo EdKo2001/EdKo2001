@@ -4,7 +4,9 @@
 [![](https://img.shields.io/badge/-Blog-F96854?style=flat-square&logo=medium)](https://medium.com/@eduardko2001)
 [![](https://img.shields.io/badge/-Personal%20Website-F6C915?style=flat-square&logo=html5)](https://eduard-koshkelyan.onrender.com/#portfolio)
 
-I have been working as a seasoned developer for over 5 years, consistently delivering top-notch results. With a wealth of experience acquired from working on a multitude of projects spanning various industries, I possess a deep understanding of diverse businesses' digital requirements. This extensive exposure has enabled me to efficiently and cost-effectively implement optimal solutions tailored to their specific needs.
+I'm a Senior Full Stack engineer with over 5 years of experience in JavaScript. Throughout my career, I've been involved in numerous projects spanning various industries, which has granted me a profound understanding of diverse digital needs in business contexts.
+
+My tech stack is quite extensive. My journey began with self-learning, followed by freelancing, and eventually transitioning to commercial experience with reputable tech companies. At the core, I'm highly proficient in JavaScript and TypeScript. Presently, my main focus lies in React.js, with a preference for Next.js for frontend development. On the backend, I leverage Node.js with either Express or the Nest framework. Additionally, I possess strong skills in DevOps and hold an Associate Developer certification from AWS.
 
 In my free time, I like to solve algorithms and visit national parks.
 Open to relocation and learning new technologies.
