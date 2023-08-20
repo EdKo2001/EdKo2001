@@ -1,8 +1,8 @@
 <h1 align="left">:wave: Hello there! I'm Eduard Koshkelyan</h1>
 
-[![](https://img.shields.io/badge/-Eduard%20Koshkelyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduard-koshkelyan/)](https://www.linkedin.com/in/eduard-koshkelyan/)
-[![](https://img.shields.io/badge/-PersonalWebsite-%23181717?style=flat-square&logo=html5)](https://eduard-koshkelyan.onrender.com/#portfolio)
-[![](https://img.shields.io/badge/-edko2001-%23181717?style=flat-square&logo=github)](https://github.com/edko2001)
+[![](https://img.shields.io/badge/-Eduard%20Koshkelyan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduard-koshkelyan/)
+[![](https://img.shields.io/badge/-Blog-F96854?style=flat-square&logo=medium)](https://medium.com/@eduardko2001)
+[![](https://img.shields.io/badge/-Personal%20Website-F6C915?style=flat-square&logo=html5)](https://eduard-koshkelyan.onrender.com/#portfolio)
 
 I have been working as a seasoned developer for over 5 years, consistently delivering top-notch results. With a wealth of experience acquired from working on a multitude of projects spanning various industries, I possess a deep understanding of diverse businesses' digital requirements. This extensive exposure has enabled me to efficiently and cost-effectively implement optimal solutions tailored to their specific needs.
 
