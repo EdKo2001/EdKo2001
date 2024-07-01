@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/-Eduard%20Koshkelyan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduard-koshkelyan/)
 [![](https://img.shields.io/badge/-Blog-F96854?style=flat-square&logo=medium)](https://medium.com/@eduardko2001)
-[![](https://img.shields.io/badge/-Personal%20Website-F6C915?style=flat-square&logo=html5)](https://eduard-koshkelyan.onrender.com/#portfolio)
+[![](https://img.shields.io/badge/-Personal%20Website-F6C915?style=flat-square&logo=html5)](https://eduardkoshkelyan.com/)
 
 Seasoned Senior Frontend Software Engineer with over 5 years of proven expertise in JavaScript and TypeScript, specializing in React.js and Next.js for frontend development. Proficient in backend technologies including Node.js and Express.js. Skilled in AWS services and certified in both AWS and Scrum Master. Dedicated to delivering impactful results, evidenced by a track record of reducing customer acquisition expenses by 30% and increasing conversion rates by 20%. Open to relocation.
 
