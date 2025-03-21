@@ -93,12 +93,16 @@
 - Integrated real estate listing APIs to create dynamic property search features.
 
 
-## 🛠️ Projects & Open Source
+## 🛠️ Projects & Open Source  
 
-- **[Project Name]**: Brief description, key tech, and a link to the repository or demo.  
-- **[Another Project]**: Brief description, challenges solved, and impact.  
-*(Feel free to replace these with your own notable projects or contributions to open source.)*
+### **NPM Package - HubSpot Form Integration for React/Next.js**  
+📌 **Associated with EZ Digital**  
+This project simplifies the integration of HubSpot forms into React applications using `@ez-digital/react-hubspot-hook-form`. It leverages `react-hook-form` for seamless form handling, dynamic fetching of forms via form IDs, customizable styling, and client-side validation. The package enhances user experience while ensuring smooth API submissions to HubSpot.  
 
+🔗 **NPM:** [@ez-digital/react-hubspot-hook-form](https://www.npmjs.com/package/@ez-digital/react-hubspot-hook-form)  
+📝 **Article:** [Integrate & Customize HubSpot Forms in React](https://medium.com/@eduardko2001/integrate-and-customize-hubspot-forms-in-your-react-applications-2f74be574669)  
+
+🛠 **Tech Stack:** React.js, TypeScript, react-hook-form, Rollup, HubSpot, Next.js  
 
 ## 🎓 Education & Certifications
 
