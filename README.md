@@ -1,374 +1,133 @@
-<h1 align="left">:wave: Hello there! I'm Eduard Koshkelyan</h1>
+<h1 align="center">👋 Eduard Koshkelyan | Senior Frontend Engineer</h1>
 
-[![](https://img.shields.io/badge/-Eduard%20Koshkelyan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduard-koshkelyan/)
-[![](https://img.shields.io/badge/-Blog-F96854?style=flat-square&logo=medium)](https://medium.com/@eduardko2001)
-[![](https://img.shields.io/badge/-Personal%20Website-F6C915?style=flat-square&logo=html5)](https://eduardkoshkelyan.com/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduard-koshkelyan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://eduardkoshkelyan.com/">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@eduardko2001">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 
-Seasoned Senior Frontend Software Engineer with 5 years of proven expertise in JavaScript and TypeScript, specializing in React.js and Next.js for frontend development. Proficient in backend technologies, including Node.js and Express.js. Skilled in AWS services and certified in both AWS and Scrum Master. Dedicated to delivering impactful results, evidenced by a track record of reducing customer acquisition expenses by 30% and increasing conversion rates by 20%. **W2 | OPEN TO RELOCATION**
-
-<h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
-
-> General
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
-      </a>
-      <br>javascript
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
-      </a>
-      <br>typescript
-    </td>
-        <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
-      </a>
-      <br>HTML5
-    </td>
-         <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
-      </a>
-      <br>git
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#">
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
-      </a>
-      <br>npm
-    </td>
-     <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
-      </a>
-      <br>github
-    </td>
-         <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="36" height="36" alt="gitlab" />
-      </a>
-      <br>gitlab
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
-      </a>
-      <br>docker
-    </td>
-  </tr> 
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=4+Years+Frontend+Engineering+Excellence;React+%7C+Next.js+%7C+TypeScript+Specialist;AWS+Certified+%7C+Scrum+Master;Open+to+Relocation+%7C+Full%E2%80%90Time+W2" alt="Header" />
+</p>
 
 
+<h3 align="center">Let's Connect & Build Amazing Things!</h3>
+<p align="center">
+  📧 <a href="mailto:eduardko2001@gmail.com">eduardko2001@gmail.com</a> | 
+  📱 +1 (641) 819-2244 |
+  🌍 <a href="https://eduardkoshkelyan.com">eduardkoshkelyan.com</a>
+</p>
 
-> Frontend
+## 📈 LeetCode Knight, Top 4.54%
 
-<table width='100%'>
-  <tr>
-   <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
-      </a>
-      <br>React JS
-    </td>
-     <td align="center" width="110" height="90">
-      <a href="#" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
-       <td align="center"  width="96">
-      <a href="#">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="36" height="36" alt="Gatsby" />
-      </a>
-      <br>Gatsby
-    </td>
- <td align="center" width="110" height="90">
-      <a href="#" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-     <td align="center" width="110" height="90">
-      <a href="#" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux Toolkit" />
-      </a>
-      <br>Redux Toolkit/RTK
-    </td>
-     <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="36" height="36" alt="Apollo" />
-      </a>
-      <br>Apollo 
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#">
-          <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
-      </a>
-      <br>Webpack
-    </td>
-        <td align="center" width="110" height="90">
-      <a href="#">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" width="36" height="36" alt="gulp" />
-      </a>
-      <br>Gulp
-    </td>
-  </tr> 
-    <tr>
-     <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://brandeps.com/icon-download/A/Ant-design-icon-vector-02.svg" width="36" height="36" alt="Ant Design" />
-      </a>
-      <br>Ant Design
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://brandeps.com/icon-download/R/React-icon-vector-04.svg" width="36" height="36" alt="reactstrap" />
-      </a>
-      <br>reactstrap
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-   <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-       <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
-      </a>
-      <br>MUI
-    </td>
-   <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-  </tr> 
-</table>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/eduardko2001?theme=unicorn&font=Almarai&ext=contest" alt="LeetCode" />
+</p>
 
-> Backend
+## 🔥 Tech Stack
 
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-        <td align="center" width="110" height="90">
-      <a href="#" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
-    </td>
-         <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="36" height="36" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-     <td align="center" width="110" height="90">
-      <a href="#" >
-        <img src="https://bestofjs.org/logos/passport.svg" width="36" height="36" alt="Passport.js" />
-      </a>
-      <br>Passport.js
-    </td>
-   <td align="center" width="110" height="90">
-      <a href="#" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" width="36" height="36" alt="Socket.io" />
-      </a>
-      <br>Socket.io
-    </td>
-  </tr> 
-</table>
+### General
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" alt="npm" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+</div>
 
-> Testing
+### Frontend
+<div>
+  <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" alt="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" alt="Next.js" width="40" height="40" />
+  <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" alt="Gatsby" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="40" height="40" />
+  <img src="https://brandeps.com/icon-download/A/Ant-design-icon-vector-02.svg" alt="Ant Design" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" />
+  <img src="https://media.zeemly.com/zeemly/product/material-ui.png" alt="MUI" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" width="40" height="40" />
+</div>
 
-<table width='100%'>
-  <tr>
-     <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
-      </a>
-      <br>Jest
-    </td>
-      <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://asset.jarombek.com/logos/enzyme.png" width="36" height="36" alt="Enzyme" />
-      </a>
-      <br>Enzyme
-    </td>
-     <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://avatars.githubusercontent.com/u/49996085?v=3&s=75" width="36" height="36" alt="React Testing Library" />
-      </a>
-      <br>React Testing Library
-    </td>
-      <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://avatars.githubusercontent.com/u/30959108?v=3&s=75" width="36" height="36" alt="Supertest" />
-      </a>
-      <br>Supertest
-    </td>
-        <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
-      </a>
-      <br>storybook
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#">
-        <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="36" height="36" alt="cypress" />
-      </a>
-      <br>cypress
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#">
-        <img src="https://bestofjs.org/logos/puppeteer.svg" width="36" height="36" alt="puppeteer" />
-      </a>
-      <br>puppeteer
-    </td>
-  </tr> 
-</table>
-
-> Code quality
-
-<table width='100%'>
-  <tr>
-     <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
-      </a>
-      <br>eslint
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
-      </a>
-      <br>prettier
-    </td>
-  </tr> 
-</table>
-
-> Mobile
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React Native" />
-      </a>
-      <br>React Native
-    </td>
-  </tr> 
-</table>
-
-> Desktop
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
-      </a>
-      <br>electron
-    </td>
-  </tr> 
-</table>
-
-> Other
-
-<table width='100%'>
-  <tr>
-     <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="36" height="36" alt="php" />
-      </a>
-      <br>PHP
-    </td>
-     <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original.svg" width="36" height="36" alt="Algorithms" />
-      </a>
-      <br>Algorithms
-    </td>
-     <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="36" height="36" alt="WordPress" />
-      </a>
-      <br>WordPress + Headless
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" width="36" height="36" alt="WooCommerce" />
-      </a>
-      <br>WooCommerce + Headless
-    </td>
-      <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3i111-9B9qge3pPNFamoqnZqgbgMRyLYcnQ&usqp=CAU" width="36" height="36" alt="SEO" />
-      </a>
-      <br>SEO
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="36" height="36" alt="JWT" />
-      </a>
-      <br>JWT
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://www.springboot.ch/tools/crypt/bcrypt/bcrypt.png" width="36" height="36" alt="bcrypt" />
-      </a>
-      <br>bcrypt
-    </td>
-     <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://cdn-icons-png.flaticon.com/512/1488/1488592.png" width="36" height="36" alt="UI/UX" />
-      </a>
-      <br>UI/UX
-    </td>
-  </tr> 
-</table>
+### Backend & Other
+<div>
+  <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" alt="Firebase" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL" width="40" height="40" />
+  <img src="https://bestofjs.org/logos/passport.svg" alt="Passport.js" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" alt="Socket.io" width="40" height="40" />
+  <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" alt="ESLint" width="40" height="40" />
+  <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" alt="Prettier" width="40" height="40" />
+  <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" alt="React Native" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" alt="Electron" width="40" height="40" />
+</div>
 
 
-<h2 align="left" id="debabin-stack">🔥 Soft skills</h2>
-• Proven B2 level of English (IELTS certification) <br>
-• Friendly <br>
-• Leadership <br>
-• Communication <br>
-• Collaboration: helping co-workers to come up with ideas/solutions <br>
-• Teaching <br>
-• Fast as flash and high quality <br>
-• Stress tolerance <br>
+## 🚀 Experience Highlights
 
-## Stats
-![edko2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=edko2001&show_icons=true&theme=dracula&count_private=true)
+### Senior Frontend Software Engineer | EZ Digital  
+*Jun 2022 - Aug 2024, Remote (Los Angeles, CA)*  
+- **Scalable CMS:** Architected a content management system with React, Next.js, TypeScript, Node.js, and Redux Toolkit that reduced development cycles by **35%**.  
+- **AI-Powered Platform:** Led the creation of a SaaS platform leveraging AWS services to boost media load times by **40%** and user engagement by **25%**.  
+- **Reusable UI Library:** Developed a component library using React & Tailwind CSS, accelerating UI development by **40%**.  
+- **CI/CD Optimization:** Improved deployment processes with GitLab, reducing failures by **30%** through automated testing and staging enhancements.
 
-## Languages 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edko2001&layout=compact&hide=css,html,handlebars)
+### Frontend Software Engineer | EZ Digital  
+*Jul 2021 - May 2022, Remote (Los Angeles, CA)*  
+- Crafted mobile-first, pixel-perfect websites with React.js and TypeScript ensuring accessibility (WCAG 2.0 compliance).  
+- Boosted website performance by implementing lazy loading and asset optimization, reducing bounce rates by **20%**.  
+- Enhanced SEO with structured data, resulting in a **58%** increase in organic traffic.
+
+### Frontend/UI Developer | Realtyna  
+*Jan 2021 - Oct 2021, Remote (Newark, DE)*  
+- Designed user-friendly interfaces with JavaScript, PHP, and WordPress, enhancing accessibility and increasing lead conversion by **30%**.  
+- Integrated real estate listing APIs to create dynamic property search features.
+
+
+## 🛠️ Projects & Open Source
+
+- **[Project Name]**: Brief description, key tech, and a link to the repository or demo.  
+- **[Another Project]**: Brief description, challenges solved, and impact.  
+*(Feel free to replace these with your own notable projects or contributions to open source.)*
+
+
+## 🎓 Education & Certifications
+
+- **M.Sc. in Computer Science**
+  Maharishi International University, Fairfield, Iowa
+
+- **B.Sc. in Computer Science**
+Georgian Technical University, Tbilisi, Georgia
+
+- **AWS Certified Developer – Associate** (Valid until June 2026)  
+- **Professional Scrum Master™ I (PSM I)**
+
+
+## 💡 What I’m Learning
+
+- Enhancing backend skills (Node.js, DevOps)  
+- Experimenting with AI integration in web apps
+
+## ⚡ Fun Facts & Soft Skills
+
+- **Soft Skills:** Leadership, effective communication, teamwork, and a passion for teaching.  
+- **Interests:** Experimenting with new technologies, contributing to community projects, and staying up-to-date with industry trends.
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=edko2001&show_icons=true&theme=dracula&count_private=true" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=edko2001&theme=dracula" />
+</div>
+
+
