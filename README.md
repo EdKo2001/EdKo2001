@@ -1,137 +1,259 @@
-<h1 align="center">👋 Eduard Koshkelyan | Senior Frontend Engineer</h1>
+<h1 align="center">
+👋 Hi, I'm Eduard Koshkelyan
+</h1>
+
+<h3 align="center">
+Senior Software Engineer • Frontend • Cloud Infrastructure • AI-Native Applications
+</h3>
+
+<p align="center">
+Building scalable cloud products, AI-powered developer experiences, and modern frontend platforms.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduard-koshkelyan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://eduardkoshkelyan.com/">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+
+  <a href="mailto:eduardko2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://medium.com/@eduardko2001">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/eduardko2001">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=4+Years+Frontend+Engineering+Excellence;React+%7C+Next.js+%7C+TypeScript+Specialist;AWS+Certified+%7C+Scrum+Master;Open+to+Relocation+%7C+Full%E2%80%90Time+W2" alt="Header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=5%2B+Years+Building+Production+Software;Senior+Software+Engineer+%40+DigitalOcean;React+%7C+TypeScript+%7C+Next.js+%7C+Node.js;Cloud+Infrastructure+%7C+AI+Developer+Workflows;OpenTelemetry+%7C+Frontend+Architecture+%7C+LLMs" />
+
 </p>
 
+---
 
-<h3 align="center">Let's Connect & Build Amazing Things!</h3>
+# 👨‍💻 About Me
+
+I'm a **Senior Software Engineer** with **5+ years of experience** building cloud infrastructure products, AI-assisted developer workflows, and scalable frontend applications.
+
+Currently at **DigitalOcean**, I build Core Cloud experiences, own customer-facing features, improve platform reliability, modernize frontend architecture, and contribute to cloud observability.
+
+I enjoy solving difficult engineering problems where **product thinking, developer experience, performance, and AI intersect.**
+
+---
+
+# 🚀 Current Focus
+
+- AI-native applications
+- Frontend architecture
+- Cloud Infrastructure
+- AI-assisted software development
+- Agentic engineering workflows
+- OpenTelemetry & Observability
+- Developer Productivity
+- Platform Engineering
+- React Performance
+- Modern UX
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+
+TypeScript • JavaScript • Node.js • Java • SQL • HTML • CSS
+
+</p>
+
+---
+
+## Frontend
+
+<p>
+
+React • Next.js • Redux Toolkit • GraphQL • D3.js • Tailwind CSS • Material UI • Ant Design • React Hook Form • Accessibility (WCAG)
+
+</p>
+
+---
+
+## Cloud & Platform
+
+<p>
+
+AWS • Docker • GitHub Actions • GitLab CI/CD • Grafana • OpenTelemetry • REST APIs
+
+</p>
+
+---
+
+## AI & Developer Productivity
+
+<p>
+
+Claude • Cursor • OpenAI API • OpenRouter • LLM Integrations • Prompt Engineering • AI-assisted Development • Agentic Workflows • AI Research • Code Review Automation • Human-in-the-loop Systems • Evaluation Harnesses • Developer Productivity
+
+</p>
+
+---
+
+# 💼 Experience
+
+## Senior Software Engineer I, Core Cloud
+### DigitalOcean
+
+**May 2025 – Present**
+
+- Led the **0→1 launch** of NAT Gateway, owning frontend delivery across Backend, Product, UX, and Project Management.
+- Authored the AMD GPU Telemetry architecture RFC, standardizing OpenTelemetry ingestion for scalable cloud observability.
+- Modernized Droplets and Networking through the Ember → React migration, reducing technical debt and improving maintainability.
+- Led AI developer-productivity research by evaluating agentic workflows, reusable AI skills, research assistants, and code-review automation.
+- Resolved **20+ customer incidents, escalations, and production issues**, improving reliability across critical cloud workflows.
+- Mentored engineers through onboarding, code reviews, and frontend best practices.
+
+---
+
+## Senior Frontend Engineer
+### EZ Digital
+
+**2022 – 2025**
+
+- Built scalable SaaS platforms using React, Next.js, TypeScript, Node.js, GraphQL, and AWS.
+- Developed AI-assisted CMS capabilities to improve content creation workflows.
+- Built reusable component libraries and frontend foundations adopted across multiple projects.
+- Improved Core Web Vitals, accessibility, and SEO across production applications.
+
+---
+
+## Frontend Engineer
+### Realtyna
+
+- Built high-performance real estate platforms using JavaScript, WordPress, PHP, and REST APIs.
+- Delivered responsive user experiences and API integrations used by thousands of users.
+
+---
+
+# ⭐ Featured Projects
+
+## 🚀 AI Video Studio
+
+End-to-end AI content generation platform integrating research, LLMs, image generation, video generation, speech synthesis, and editing workflows.
+
+**Tech**
+
+React • Next.js • TypeScript • AI APIs
+
+---
+
+## ☁️ AMD GPU Telemetry
+
+Designed an OpenTelemetry-based cloud observability architecture for GPU utilization and analytics.
+
+**Focus**
+
+Cloud Infrastructure • Observability • OpenTelemetry
+
+---
+
+## 🌐 NAT Gateway
+
+Led frontend development for DigitalOcean's NAT Gateway product from design through production launch.
+
+**Focus**
+
+React • Networking • Cloud UX • Product Engineering
+
+---
+
+## 📦 React HubSpot Hook
+
+NPM package simplifying HubSpot form integration.
+
+https://www.npmjs.com/package/@ez-digital/react-hubspot-hook-form
+
+---
+
+# ✍️ Articles
+
+- React + HubSpot Forms
+- Frontend Architecture
+- AI Developer Workflows
+- OpenTelemetry
+- React Performance
+
+---
+
+# 🤖 AI Engineering
+
+I actively explore modern AI engineering workflows including:
+
+- Claude
+- Cursor
+- OpenAI
+- Prompt Engineering
+- AI-assisted Development
+- Agentic Workflows
+- Evaluation Harnesses
+- Research Agents
+- Code Review Automation
+- Developer Productivity
+- Human-in-the-loop Systems
+
+---
+
+# 🎓 Education
+
+**M.S. Computer Science**
+
+Maharishi International University
+
+**B.S. Computer Science**
+
+Georgian Technical University
+
+---
+
+# 🏆 Certifications
+
+- AWS Certified Developer – Associate
+- Professional Scrum Master I (PSM I)
+
+---
+
+# 🧩 Competitive Programming
+
+## LeetCode
+
+Top **4.5%**
+
 <p align="center">
-  📧 <a href="mailto:eduardko2001@gmail.com">eduardko2001@gmail.com</a> | 
-  📱 +1 (641) 819-2244 |
-  🌍 <a href="https://eduardkoshkelyan.com">eduardkoshkelyan.com</a>
+
+<img src="https://leetcard.jacoblin.cool/eduardko2001?theme=dark&font=Ubuntu&ext=contest" />
+
 </p>
 
-## 📈 LeetCode Knight, Top 4.54%
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/eduardko2001?theme=unicorn&font=Almarai&ext=contest" alt="LeetCode" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=edko2001&show_icons=true&theme=github_dark&count_private=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=edko2001&theme=github-dark"/>
+
 </p>
 
-## 🔥 Tech Stack
+---
 
-### General
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" alt="npm" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-</div>
+<p align="center">
 
-### Frontend
-<div>
-  <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" alt="React" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" alt="Next.js" width="40" height="40" />
-  <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" alt="Gatsby" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="40" height="40" />
-  <img src="https://brandeps.com/icon-download/A/Ant-design-icon-vector-02.svg" alt="Ant Design" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" />
-  <img src="https://media.zeemly.com/zeemly/product/material-ui.png" alt="MUI" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" width="40" height="40" />
-</div>
+⭐ Building software that combines product thinking, cloud infrastructure, and AI.
 
-### Backend & Other
-<div>
-  <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" alt="Firebase" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL" width="40" height="40" />
-  <img src="https://bestofjs.org/logos/passport.svg" alt="Passport.js" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" alt="Socket.io" width="40" height="40" />
-  <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" alt="ESLint" width="40" height="40" />
-  <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" alt="Prettier" width="40" height="40" />
-  <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" alt="React Native" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" alt="Electron" width="40" height="40" />
-</div>
-
-
-## 🚀 Experience Highlights
-
-### Senior Frontend Software Engineer | EZ Digital  
-*Jun 2022 - Aug 2024, Remote (Los Angeles, CA)*  
-- **Scalable CMS:** Architected a content management system with React, Next.js, TypeScript, Node.js, and Redux Toolkit that reduced development cycles by **35%**.  
-- **AI-Powered Platform:** Led the creation of a SaaS platform leveraging AWS services to boost media load times by **40%** and user engagement by **25%**.  
-- **Reusable UI Library:** Developed a component library using React & Tailwind CSS, accelerating UI development by **40%**.  
-- **CI/CD Optimization:** Improved deployment processes with GitLab, reducing failures by **30%** through automated testing and staging enhancements.
-
-### Frontend Software Engineer | EZ Digital  
-*Jul 2021 - May 2022, Remote (Los Angeles, CA)*  
-- Crafted mobile-first, pixel-perfect websites with React.js and TypeScript ensuring accessibility (WCAG 2.0 compliance).  
-- Boosted website performance by implementing lazy loading and asset optimization, reducing bounce rates by **20%**.  
-- Enhanced SEO with structured data, resulting in a **58%** increase in organic traffic.
-
-### Frontend/UI Developer | Realtyna  
-*Jan 2021 - Oct 2021, Remote (Newark, DE)*  
-- Designed user-friendly interfaces with JavaScript, PHP, and WordPress, enhancing accessibility and increasing lead conversion by **30%**.  
-- Integrated real estate listing APIs to create dynamic property search features.
-
-
-## 🛠️ Projects & Open Source  
-
-### **NPM Package - HubSpot Form Integration for React/Next.js**  
-📌 **Associated with EZ Digital**  
-This project simplifies the integration of HubSpot forms into React applications using `@ez-digital/react-hubspot-hook-form`. It leverages `react-hook-form` for seamless form handling, dynamic fetching of forms via form IDs, customizable styling, and client-side validation. The package enhances user experience while ensuring smooth API submissions to HubSpot.  
-
-🔗 **NPM:** [@ez-digital/react-hubspot-hook-form](https://www.npmjs.com/package/@ez-digital/react-hubspot-hook-form)  
-📝 **Article:** [Integrate & Customize HubSpot Forms in React](https://medium.com/@eduardko2001/integrate-and-customize-hubspot-forms-in-your-react-applications-2f74be574669)  
-
-🛠 **Tech Stack:** React.js, TypeScript, react-hook-form, Rollup, HubSpot, Next.js  
-
-## 🎓 Education & Certifications
-
-- **M.Sc. in Computer Science**
-  Maharishi International University, Fairfield, Iowa
-
-- **B.Sc. in Computer Science**
-Georgian Technical University, Tbilisi, Georgia
-
-- **AWS Certified Developer – Associate** (Valid until June 2026)  
-- **Professional Scrum Master™ I (PSM I)**
-
-
-## 💡 What I’m Learning
-
-- Enhancing backend skills (Node.js, DevOps)  
-- Experimenting with AI integration in web apps
-
-## ⚡ Fun Facts & Soft Skills
-
-- **Soft Skills:** Leadership, effective communication, teamwork, and a passion for teaching.  
-- **Interests:** Experimenting with new technologies, contributing to community projects, and staying up-to-date with industry trends.
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=edko2001&show_icons=true&theme=dracula&count_private=true" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=edko2001&theme=dracula" />
-</div>
-
-
+</p>
